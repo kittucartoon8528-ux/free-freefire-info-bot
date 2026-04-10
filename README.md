@@ -1,4 +1,7 @@
-#  Free Fire info Discord Bot
+ giuld bot 
+ 
+ 
+ #  Free Fire info Discord Bot
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
